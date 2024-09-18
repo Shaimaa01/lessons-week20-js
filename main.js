@@ -305,3 +305,8 @@ Modules
 */
 
 export { a as myNumber, arr, saySomething };
+
+export default function sayHello(){
+  return `Hello`;
+}
+
